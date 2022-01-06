@@ -1,4 +1,4 @@
-## HealthCare ChatBot 🤖
+## 🤖 HealthCare ChatBot
 Major -1 
 (4th year - 7th semester)
 
