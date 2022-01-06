@@ -1,6 +1,6 @@
 ## HealthCare ChatBot 🤖
 Major -1 
-7th semester
+(4th year - 7th semester)
 
 Health Care Chat-Bot is a Healthcare Domain Chatbot to simulate the predictions of a General Physician. 
 
