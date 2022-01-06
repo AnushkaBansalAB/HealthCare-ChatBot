@@ -54,8 +54,8 @@ Decision Tree is a Supervised learning technique that can be used for both class
 
 ## :suspect: Project Members
 
-- Anushka Bansal
-- Shreya Sharma
-- Silvi
-- Ishika Agrawal
+- Anushka Bansal - 500067844 - R164218014
+- Shreya Sharma - 500068573 - R164218070
+- Silvi - 500069092 - R164218072
+- Ishika Agrawal - 500071154 - R164218097
 
